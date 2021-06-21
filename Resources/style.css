@@ -71,3 +71,27 @@ img {
     padding: 14px;
     margin: 0px 0px 0px 40px;
   }
+
+  .divbdy{
+    background-color: white;
+    z-index:1;
+  }
+  
+  .divtable{
+    text-align:center;
+    background-color: white;
+    z-index:1;
+  }
+  
+  .divbtm {
+    width:100%;
+    /* position:absolute; */
+    bottom:0;
+    background-color: gray;
+    z-index:0;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin: 0px;
+}

@@ -29,3 +29,23 @@ img {
     font-weight: bold;
     text-align: center;
   }
+
+  p{
+    color: gray;
+    text-align:left;
+  }
+  
+  .navbar{
+      position: absolute;
+      right: 30px;
+  }
+  
+  .navbar a{
+    background-color:white;
+  }
+  
+  body {
+    width: 100%;
+    min-height:100%;
+    background-color: lightgray;
+  }

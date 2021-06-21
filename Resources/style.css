@@ -49,3 +49,25 @@ img {
     min-height:100%;
     background-color: lightgray;
   }
+
+  .col {
+    width: 100%;
+  } 
+
+  .homebtn{
+    background-color: white;
+    z-index:2;
+  }
+  
+  .homebtn a{
+    width: 110px;
+    background: lightseagreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    display: block;
+    padding: 14px;
+    margin: 0px 0px 0px 40px;
+  }

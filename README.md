@@ -4,7 +4,7 @@
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-![Images/landingResize.png](Images/landingResize.png)
+![image](https://user-images.githubusercontent.com/78628287/123146336-be84f980-d42b-11eb-99d6-21d7337a490c.png)
 
 ### Before You Begin
 
@@ -68,14 +68,6 @@ Ensure your repository has regular commits (i.e. 20+ commits) and a thorough REA
 * Be sure your website works at all window widths/sizes.
 * Feel free to take some liberty in the visual aspects, but keep the core functionality the same.
 
-### Bonuses
-
-* Use a different dataset! The requirements above still hold, but make it your own.
-* Use a Bootstrap theme to customize your website. You may use a tool like [Bootswatch](https://bootswatch.com/). Make it look snazzy, give it some attitude. If using this, be sure you also meet all of the requirements listed above.
-* Add extra visualizations! The more comparisons the better, right?
-* Use meaningful glyphicons next to links in the header.
-* Have visualization navigation on every visualizations page with an active state. See the screenshots below.
-
 ### Screenshots
 
 This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images.
@@ -84,33 +76,32 @@ This section contains screenshots of each page that must be built, at varying sc
 
 Large screen:
 
-![Landing page large screen](Images/landingResize.png)
+![image](https://user-images.githubusercontent.com/78628287/123146430-d6f51400-d42b-11eb-862d-1a13e5cfca6a.png)
 
 Small screen:
 
-![Landing page small screen](Images/landing-sm.png)
+![image](https://user-images.githubusercontent.com/78628287/123146443-dc525e80-d42b-11eb-8905-65941e14e24a.png)
 ￼
 
 #### <a id="comparisons-page"></a>Comparisons page
 
 Large screen:
 
-![comparison page large screen](Images/comparison-lg.png)
+![image](https://user-images.githubusercontent.com/78628287/123146483-ed9b6b00-d42b-11eb-8525-e2971ea574a4.png)
 
 Small screen:
 
-![comparison page small screen](Images/comparison-sm.png)
+![image](https://user-images.githubusercontent.com/78628287/123146499-f3914c00-d42b-11eb-935c-d28a094832ec.png)
 
 #### <a id="data-page"></a>Data page
 
 Large screen:
 
-![data page large screen](Images/data-lg.png)
+![image](https://user-images.githubusercontent.com/78628287/123146521-fb50f080-d42b-11eb-8735-64cd1d5e2b06.png)
 
 
 Small screen:
-
-![data page small screen](Images/data-sm.png)
+![image](https://user-images.githubusercontent.com/78628287/123146540-0146d180-d42c-11eb-9307-bfa67965976b.png)
 
 #### <a id="visualization-pages"></a>Visualization pages
 
@@ -118,16 +109,17 @@ You'll build four of these, one for each visualization. Here's an example of one
 
 Large screen:
 
-![visualize page large screen](Images/visualize-lg.png)
+![image](https://user-images.githubusercontent.com/78628287/123146569-0ad03980-d42c-11eb-9a0b-4ea8031d669c.png)
 
 Small screen:
 
-![visualize page small screen](Images/visualize-sm.png)
+![image](https://user-images.githubusercontent.com/78628287/123146599-0f94ed80-d42c-11eb-91ee-4e063b3c49bb.png)
 
 #### <a id="navigation-menu"></a>Navigation menu
 
 Large screen:
-![nav menu large screen](Images/nav-lg.png)
+![image](https://user-images.githubusercontent.com/78628287/123146619-16236500-d42c-11eb-9772-27cd3a1b943b.png)
 
 Small screen:
-![nav menu small screen](Images/nav-sm.png)
+![image](https://user-images.githubusercontent.com/78628287/123146644-1cb1dc80-d42c-11eb-8f6b-90cf55da66c8.png)
+

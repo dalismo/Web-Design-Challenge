@@ -1,4 +1,4 @@
-[Click here to see webpage]()
+[Click here to see webpage](https://dalismo.github.io/Web-Design-Challenge/
 
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 

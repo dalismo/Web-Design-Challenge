@@ -1,3 +1,5 @@
+[Click here to see webpage]()
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
